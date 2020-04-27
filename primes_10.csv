@@ -1,0 +1,10 @@
+TC-01.01 (2 is prime number; created by Alena),2,true
+TC-01.02 (3 is prime number; created by Alena),3,true
+TC-01.03 (4 is not prime number; created by Alena),4,false
+TC-01.04 (5 is prime number; created by Alena),5,true
+TC-01.05 (6 is not prime number; created by Alena),6,false
+TC-01.06 (7 is prime number; created by Alena),7,true
+TC-01.07 (8 is not prime number; created by Alena),8,false
+TC-01.08 (9 is not prime number; created by Alena),9,false
+TC-01.09 (10 is not prime number; created by Alena),10,false
+TC-01.10 (11 is prime number; created by Alena),11,true

@@ -1,0 +1,20 @@
+TC-01.01 (2 is prime number; created by Alena),2,true
+TC-01.02 (3 is prime number; created by Alena),3,true
+TC-01.03 (4 is not prime number; created by Alena),4,false
+TC-01.04 (5 is prime number; created by Alena),5,true
+TC-01.05 (6 is not prime number; created by Alena),6,false
+TC-01.06 (7 is prime number; created by Alena),7,true
+TC-01.07 (8 is not prime number; created by Alena),8,false
+TC-01.08 (9 is not prime number; created by Alena),9,false
+TC-01.09 (10 is not prime number; created by Alena),10,false
+TC-01.10 (11 is prime number; created by Alena),11,true
+TC-01.11 (12 is not prime number; created by Alena),12,false
+TC-01.12 (13 is prime number; created by Alena),13,true
+TC-01.13 (14 is not prime number; created by Alena),14,false
+TC-01.14 (15 is not prime number; created by Alena),15,false
+TC-01.15 (16 is not prime number; created by Alena),16,false
+TC-01.16 (17 is prime number; created by Alena),17,true
+TC-01.17 (18 is not prime number; created by Alena),18,false
+TC-01.18 (19 is prime number; created by Alena),19,true
+TC-01.19 (20 is not prime number; created by Alena),20,false
+TC-01.20 (21 is not prime number; created by Alena),21,false
